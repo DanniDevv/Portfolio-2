@@ -132,7 +132,7 @@ function Home() {
               </h3>
               <p className="mb-4 text-base font-normal text-gray-500 dark:text-white">
                 Realize un proyecto de desarrollo web, con el uso de Html, Css y
-                JavaScript.
+                JavaScript en una empresa que brinda servicios informaticos.
               </p>
             </li>
             <li className="mb-10 ms-4">
@@ -629,7 +629,7 @@ function Home() {
                         Node.js
                       </span>
                     </li>
-                    <li>
+                    {/* <li>
                       <span className="flex gap-x-2 rounded-full text-xs bg-[#59002c] text-white py-1 px-2">
                         <svg
                           className="size-4"
@@ -698,7 +698,7 @@ function Home() {
                         </svg>
                         Angular
                       </span>
-                    </li>
+                    </li> */}
                     <li>
                       <span className="flex gap-x-2 rounded-full text-xs bg-black text-white py-1 px-2">
                         <svg
@@ -718,9 +718,8 @@ function Home() {
                     </li>
                   </ul>
                   <div className="mt-2 text-gray-700 dark:text-gray-400">
-                    Concebí esta página durante mi cuarto ciclo académico,
-                    mientras realizaba una pasantía empresarial junto a un
-                    compañero. Terminando de manera exitosa el proyecto.
+                    Esta aplicación se creo con el fin de ayudar a las personas
+                    a encontrar un lugar donde estacionar su vehículo.
                   </div>
                   <footer className="flex items-end justify-start mt-4 gap-x-4">
                     <a
@@ -798,26 +797,26 @@ function Home() {
           <article className="flex flex-col items-center justify-center gap-8 text-gray-700 dark:text-gray-300 md:flex-row">
             <div className="[&>p]:mb-4 [&>p>strong]:text-yellow-500 dark:[&>p>strong]:text-yellow-100 [&>p>strong]:font-normal [&>p>strong]:font-mono text-pretty order-2 md:order-1">
               <p>
-                Me llamo Dante Samuel pero mis amigos me llaman dani. Comence en
+                Me llamo Dante Samuel pero mis amigos me llaman Dani. Comencé en
                 la programación a los 17 años debido a que me gusta la
                 tecnología.
                 <strong>
                   {" "}
-                  Actualmente me encuentro cursando el ultimo año de mi carrera
+                  Actualmente me encuentro cursando el último año de mi carrera
                 </strong>
               </p>
               <p>
-                Algunos de mis proyectos se atribuyen gracias a la colaboracion{" "}
+                Algunos de mis proyectos se atribuyen gracias a la colaboración{" "}
                 <strong>
                   entre proyectos influyentes en la industria de la tecnología
                 </strong>
               </p>
               <p>
-                Mi objetivo es ser mejorar mis conocimientos en la tecnologia y
+                Mi objetivo es mejorar mis conocimientos en la tecnología y
                 programación,{" "}
                 <strong>
                   {" "}
-                  actualizandome tal como lo hace el mundo tecnologico
+                  actualizándome tal como lo hace el mundo tecnológico
                 </strong>
               </p>
             </div>
