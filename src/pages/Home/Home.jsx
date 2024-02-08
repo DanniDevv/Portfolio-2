@@ -15,7 +15,7 @@ function Home() {
             Hey, soy danidev
           </h1>
           <a
-            href="https://linkedin.com/in/midudev"
+            href="https://www.linkedin.com/in/dante-samuel-rodriguez-chambi-444041279/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center transition md:justify-center md:hover:scale-105"
@@ -43,7 +43,7 @@ function Home() {
         </p>
         <nav className="flex gap-3">
           <a
-            href="mailto:miduga@gmail.com"
+            href="https://mail.google.com/mail/u/0/#inbox"
             target="_blank"
             rel="noopener noreferrer"
             role="link"
